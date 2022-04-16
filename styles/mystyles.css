@@ -1,0 +1,17 @@
+.cursive { font-family: cursive;
+    font-size: larger;
+    font-weight: bold;
+    color: dimgray;  
+}
+.imagedesc {font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: darkblue;
+}
+ul {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: grey;
+}
+.italic {font-style: italic;
+    text-decoration: underline;
+    color: black;
+}
